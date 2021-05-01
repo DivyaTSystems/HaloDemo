@@ -1,2 +1,0 @@
-# HaloDemo
-LearningGit
